@@ -1,0 +1,12 @@
+C:\Users\mohammadaw\source\repos\WebAPIs\ProjectsDA\bin\Debug\net7.0\ProjectsDA.deps.json
+C:\Users\mohammadaw\source\repos\WebAPIs\ProjectsDA\bin\Debug\net7.0\ProjectsDA.dll
+C:\Users\mohammadaw\source\repos\WebAPIs\ProjectsDA\bin\Debug\net7.0\ProjectsDA.pdb
+C:\Users\mohammadaw\source\repos\WebAPIs\ProjectsDA\obj\Debug\net7.0\ProjectsDA.csproj.AssemblyReference.cache
+C:\Users\mohammadaw\source\repos\WebAPIs\ProjectsDA\obj\Debug\net7.0\ProjectsDA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohammadaw\source\repos\WebAPIs\ProjectsDA\obj\Debug\net7.0\ProjectsDA.AssemblyInfoInputs.cache
+C:\Users\mohammadaw\source\repos\WebAPIs\ProjectsDA\obj\Debug\net7.0\ProjectsDA.AssemblyInfo.cs
+C:\Users\mohammadaw\source\repos\WebAPIs\ProjectsDA\obj\Debug\net7.0\ProjectsDA.csproj.CoreCompileInputs.cache
+C:\Users\mohammadaw\source\repos\WebAPIs\ProjectsDA\obj\Debug\net7.0\ProjectsDA.dll
+C:\Users\mohammadaw\source\repos\WebAPIs\ProjectsDA\obj\Debug\net7.0\refint\ProjectsDA.dll
+C:\Users\mohammadaw\source\repos\WebAPIs\ProjectsDA\obj\Debug\net7.0\ProjectsDA.pdb
+C:\Users\mohammadaw\source\repos\WebAPIs\ProjectsDA\obj\Debug\net7.0\ref\ProjectsDA.dll

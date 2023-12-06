@@ -1,0 +1,12 @@
+C:\Users\mohammadaw\source\repos\WebAPIs\EmpDA\bin\Debug\net7.0\EmpDA.deps.json
+C:\Users\mohammadaw\source\repos\WebAPIs\EmpDA\bin\Debug\net7.0\EmpDA.dll
+C:\Users\mohammadaw\source\repos\WebAPIs\EmpDA\bin\Debug\net7.0\EmpDA.pdb
+C:\Users\mohammadaw\source\repos\WebAPIs\EmpDA\obj\Debug\net7.0\EmpDA.csproj.AssemblyReference.cache
+C:\Users\mohammadaw\source\repos\WebAPIs\EmpDA\obj\Debug\net7.0\EmpDA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohammadaw\source\repos\WebAPIs\EmpDA\obj\Debug\net7.0\EmpDA.AssemblyInfoInputs.cache
+C:\Users\mohammadaw\source\repos\WebAPIs\EmpDA\obj\Debug\net7.0\EmpDA.AssemblyInfo.cs
+C:\Users\mohammadaw\source\repos\WebAPIs\EmpDA\obj\Debug\net7.0\EmpDA.csproj.CoreCompileInputs.cache
+C:\Users\mohammadaw\source\repos\WebAPIs\EmpDA\obj\Debug\net7.0\EmpDA.dll
+C:\Users\mohammadaw\source\repos\WebAPIs\EmpDA\obj\Debug\net7.0\refint\EmpDA.dll
+C:\Users\mohammadaw\source\repos\WebAPIs\EmpDA\obj\Debug\net7.0\EmpDA.pdb
+C:\Users\mohammadaw\source\repos\WebAPIs\EmpDA\obj\Debug\net7.0\ref\EmpDA.dll

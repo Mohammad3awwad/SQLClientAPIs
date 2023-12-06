@@ -1,0 +1,12 @@
+C:\Users\mohammadaw\source\repos\WebAPIs\TeamsDA\bin\Debug\net7.0\TeamsDA.deps.json
+C:\Users\mohammadaw\source\repos\WebAPIs\TeamsDA\bin\Debug\net7.0\TeamsDA.dll
+C:\Users\mohammadaw\source\repos\WebAPIs\TeamsDA\bin\Debug\net7.0\TeamsDA.pdb
+C:\Users\mohammadaw\source\repos\WebAPIs\TeamsDA\obj\Debug\net7.0\TeamsDA.csproj.AssemblyReference.cache
+C:\Users\mohammadaw\source\repos\WebAPIs\TeamsDA\obj\Debug\net7.0\TeamsDA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohammadaw\source\repos\WebAPIs\TeamsDA\obj\Debug\net7.0\TeamsDA.AssemblyInfoInputs.cache
+C:\Users\mohammadaw\source\repos\WebAPIs\TeamsDA\obj\Debug\net7.0\TeamsDA.AssemblyInfo.cs
+C:\Users\mohammadaw\source\repos\WebAPIs\TeamsDA\obj\Debug\net7.0\TeamsDA.csproj.CoreCompileInputs.cache
+C:\Users\mohammadaw\source\repos\WebAPIs\TeamsDA\obj\Debug\net7.0\TeamsDA.dll
+C:\Users\mohammadaw\source\repos\WebAPIs\TeamsDA\obj\Debug\net7.0\refint\TeamsDA.dll
+C:\Users\mohammadaw\source\repos\WebAPIs\TeamsDA\obj\Debug\net7.0\TeamsDA.pdb
+C:\Users\mohammadaw\source\repos\WebAPIs\TeamsDA\obj\Debug\net7.0\ref\TeamsDA.dll
